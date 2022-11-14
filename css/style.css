@@ -1,0 +1,16 @@
+.carre {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.carrebleu {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+#p2 {
+    display: none;
+}
+
